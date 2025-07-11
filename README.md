@@ -6,11 +6,11 @@
 
 ## 📸 Preview
 
-
-
-> *A clean, responsive UI for booking flights with real-time feedback and confirmations.*
-
----
+>![App Preview](./assets/web-pic/spotlight.png)
+>![App Preview](./assets/web-pic//booking.png)
+>![App Preview](./assets/web-pic/guide.png)
+>![App Preview](./assets/web-pic/memories.png)
+>![App Preview](./assets/web-pic/footer.png)
 
 ## 📦 Tech Stack
 
